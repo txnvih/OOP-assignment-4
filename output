@@ -1,0 +1,21 @@
+Select choice of shape
+1.Triangle
+2.Rectangle
+1
+You have chosen Triangle
+Enter value of length of triangle:
+3
+Enter value of breadth of triangle:
+4
+Area of triangle having length 3.0 and breadth 4.0 is 6.0
+----------OR------------
+Select choice of shape
+1.Triangle
+2.Rectangle
+2
+You have chosen Triangle
+Enter value of first side of rectangle:
+5
+Enter value of second side of rectangle:
+10
+Area of rectangle having first side as 5.0 and second side as 10.0 is 50.0
